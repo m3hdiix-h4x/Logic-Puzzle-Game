@@ -109,4 +109,10 @@ LogicPuzzleGame/
 
 ## 👤 Author
 
-Made with ❤️ as a Java GUI project.
+Mehdi Ghine
+
+Developed as an academic project focused on software design, interactivity, and user experience.
+
+## 🎓 Encadré par
+
+Pr. Kamal ELHattab
